@@ -48,7 +48,7 @@ It serves as both a technical tool and a creative expression of problem-solving 
 ## 🔽 Download
 
 📦 Get the latest executable:  
-➡️ **[Download PowerPoint Generator v1.3 (.exe)](https://github.com/jentimanatol/PowerPointGenerator/releases/download/v1.3/PowerPointGenerator.exe)**
+➡️ **[Download PowerPoint Generator v2.0 (.exe)](https://github.com/jentimanatol/PowerPointGenerator/releases/download/v2.0/PowerPointGenerator.exe)**
 
 📁 View or fork the source:  
 🔍 **[Browse all releases](https://github.com/jentimanatol/PowerPointGenerator/releases)**
